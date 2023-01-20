@@ -1,0 +1,3 @@
+leibnitz_pi: calculates the value of pi using the leibnitz formula with n = 2^20
+leibnitz_pi: calculates the value of pi using the leibnitz formula with n ranging from 2^1 - 2^20
+Author: Sarah Yoon
