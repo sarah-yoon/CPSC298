@@ -1,5 +1,5 @@
 /// @file leibnitz_pi_converge
-/// @brief prints out value of pi using the leibnitz formula with n ranging from 1 - 20
+/// @brief prints out value of pi using the leibnitz formula with n ranging from 2^1 - 2^20
 /// @author Sarah Yoon
 /// 
 #include <iostream>
