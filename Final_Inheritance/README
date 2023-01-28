@@ -1,0 +1,5 @@
+makes an abtract shape class
+also makes a rectangle and circle class that inherites from the shape class
+prints out the width and height of the shape
+also prints out the area and perimeter of the shape
+Author: Sarah Yoon
